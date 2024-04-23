@@ -20,16 +20,6 @@
     README.md: Documentation for your project.
 
 ## Process of adding Files in Github 🅿️
-    PS C:\Users\ASUS\Desktop\MiniKart> git init
-    Initialized empty Git repository in C:/Users/ASUS/Desktop/MiniKart/.git/
-    PS C:\Users\ASUS\Desktop\MiniKart> git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
-    Cloning into 'Coding-assessment-l2-Boilerplate-code'...
-    remote: Enumerating objects: 34, done.
-    remote: Counting objects: 100% (8/8), done.
-    remote: Compressing objects: 100% (6/6), done.
-    Receiving objects:  61% (21/34)sed 2 (delta 2), pack-reused 26
-    Receiving objects: 100% (34/34), 12.34 KiB | 3.09 MiB/s, done.
-    Resolving deltas: 100% (9/9), done.
     PS C:\Users\ASUS\Desktop\MiniKart> touch Readme.md
     PS C:\Users\ASUS\Desktop\MiniKart> git add .
     PS C:\Users\ASUS\Desktop\MiniKart> git commit -m "Added all files"           
