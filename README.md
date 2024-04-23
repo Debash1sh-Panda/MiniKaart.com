@@ -68,4 +68,4 @@
 3.Kids Categories
     ![Screenshot 2024-04-23 212336](https://github.com/Debash1sh-Panda/MiniKart.com/assets/144515067/fecdfd36-905e-41cd-b87c-ee306fe4af3c)
 
-# Thankyou for Visitig ( @Debasish Panda ❤️)
+# Thankyou for Visiting ( @Debasish Panda ❤️)
