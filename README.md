@@ -1,5 +1,7 @@
 # MiniKart.com Website Using HTML5, CSS3 and JAVASCRIPT ✒️👨🏻‍💻
 
+link :-- https://minikaart.netlify.app/
+
 ## Structure Of the Files 🗃️
      project-root/
      |-- index.html
@@ -47,8 +49,8 @@
      * [new branch]      main -> main
     branch 'main' set up to track 'origin/main'.
 
-## Hosting (GitHub Page) 🔗
-    (MiniKart URL) :- 
+## Hosting (Netlify Page) 🔗
+    (MiniKaart URL) :- https://minikaart.netlify.app/
 
 ## ScreenShots 📸
 
