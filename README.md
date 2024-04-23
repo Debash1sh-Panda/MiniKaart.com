@@ -58,13 +58,14 @@
     (MiniKart URL) :- 
 
 ## ScreenShots 📸
-    1.Mens Categories
-    ![Screenshot 2024-04-23 212258](https://github.com/Debash1sh-Panda/MiniKart.com/assets/144515067/f5de38a2-bc85-4bba-9ab7-5078f55015d4)
 
-    2.Womens Categories
+1.Mens Categories
+     ![Screenshot 2024-04-23 212258](https://github.com/Debash1sh-Panda/MiniKart.com/assets/144515067/f5de38a2-bc85-4bba-9ab7-5078f55015d4)
+
+2.Womens Categories
     ![Screenshot 2024-04-23 212314](https://github.com/Debash1sh-Panda/MiniKart.com/assets/144515067/a09704be-ac30-48c7-bd59-2531405e83b7)
 
-    3.Kids Categories
+3.Kids Categories
     ![Screenshot 2024-04-23 212336](https://github.com/Debash1sh-Panda/MiniKart.com/assets/144515067/fecdfd36-905e-41cd-b87c-ee306fe4af3c)
 
 # Thankyou for Visitig ( @Debasish Panda ❤️)
