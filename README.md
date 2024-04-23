@@ -7,9 +7,12 @@
      |-- script.js
      |-- README.md
 
-## Clone and Download 👇🏻
+## Clone and Download Demo Source code and files 👇🏻
     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
-    
+
+## Clone and Download all the Sourcecode ♻️
+     git remote add origin https://github.com/Debash1sh-Panda/MiniKart.com.git
+     
 ## Functionality 🎬
     index.html: Main HTML file for your project.
     style.css: CSS file for styling.
